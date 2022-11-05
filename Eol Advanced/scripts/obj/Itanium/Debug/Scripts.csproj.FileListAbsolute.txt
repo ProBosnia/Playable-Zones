@@ -1,0 +1,16 @@
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\scripts.dll.config
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\scripts.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\scripts.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\Assets.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.DBComm.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.exe
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.Network.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\Ionic.Zlib.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\CSScriptLibrary.dll
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\Assets.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.DBComm.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.Network.pdb
+C:\Infantry\infserver\trunk\bin\scripts\bin\Itanium\Debug\InfServer.pdb
+C:\Infantry\infserver\trunk\bin\scripts\obj\Itanium\Debug\ResolveAssemblyReference.cache
+C:\Infantry\infserver\trunk\bin\scripts\obj\Itanium\Debug\scripts.dll
+C:\Infantry\infserver\trunk\bin\scripts\obj\Itanium\Debug\scripts.pdb
