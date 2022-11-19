@@ -61,9 +61,9 @@
 6,v25,725,"MapEnterNE",10960,7168,40,40,0,-3,    -1,111,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
 8,v25,726,"SatTextNE",27888,2128,160,160,0,-3,    1,-1,"Northeast Portal -- Northeast area of Airstrip; around M2 and the surrounding area."
 4,v25,727,"WarpDrainNE",5760,656,400,400,0,-3,  0,300,0,300,111, 1,0,""
-6,v25,728,"MapEnterTHEARENA",2304,4080,75,60,0,-3,    -1,112,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+6,v25,728,"MapEnterB4toC9",2304,4080,75,60,0,-3,    -1,112,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
 8,v25,729,"SatTextTM",26112,2128,160,160,0,-3,    1,-1,"F2 Portal -- Near F2 and the surrounding area."
-4,v25,730,"WarpDrainTheARena",12448,8528,150,150,0,-3,  0,300,0,300,112, 1,0,""
+4,v25,730,"WarpDrainTheB4toC9",3312,7488,25,25,0,-3,  0,300,0,300,112, 1,0,""
 6,v25,731,"MapEnterSW",10864,7552,40,40,0,-3,    -1,113,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
 8,v25,732,"SatTextSW",26080,3648,160,160,0,-3,    1,-1,"Southwest Portal -- Southwest area near C9 and the surrounding area."
 4,v25,733,"WarpDrainSW",736,4192,400,400,0,-3,  0,300,0,300,113, 1,0,""
@@ -140,8 +140,8 @@
 6,v25,79,"MapEnterB4toI3",2336,4880,75,60,0,-3,    -1,137,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
 6,v25,80,"MapEnterI3toB4",10304,3296,75,50,0,-3,    -1,138,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
 4,v25,83,"WarpDrainE3toB4",2192,4880,10,10,0,-3,  0,300,0,300,138, 1,0,""
-6,v25,87,"MapEnterTHEARENAexit",12128,8272,30,30,0,-3,    -1,139,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
-4,v25,88,"WarpDrainTheARenaexit",2304,4240,25,25,0,-3,  0,300,0,300,139, 1,0,""
+6,v25,87,"MapEnterC9tob4exit",3088,7488,90,60,0,-3,    -1,139,, 300,5,0,uiart,warp,0,0,0,0,0,0,None,None,0,0,0,0,0,0,uiwav,warpin,0,0
+4,v25,88,"WarpDrainTheC9toB4exit",2304,4240,25,25,0,-3,  0,300,0,300,139, 1,0,""
 3,v25,89,"Major Resource Point 10",4328,7928,0,0,0,0,     1000,0,999,  3,3,3,3,3,  0,0,0,  0,1,1,0,  0,0,0,2500, 800,3000,0,0,0, 0,0,0,0,0, 1201,"",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, eolobjectives,ResourcePoint,0,0,5,0,0,0,bongs,Captured,0,0,None,None,0,0
 3,v25,90,"Major Resource Point 11",7976,7416,0,0,0,0,     1000,0,999,  3,3,3,3,3,  0,0,0,  0,1,1,0,  0,0,0,2500, 800,3000,0,0,0, 0,0,0,0,0, 1201,"",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, eolobjectives,ResourcePoint,0,0,5,0,0,0,bongs,Captured,0,0,None,None,0,0
 3,v25,92,"Major Resource Point 12",5080,5400,0,0,0,0,     1000,0,999,  3,3,3,3,3,  0,0,0,  0,1,1,0,  0,0,0,2500, 800,3000,0,0,0, 0,0,0,0,0, 1201,"",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0, 0,0,0,0,0, eolobjectives,ResourcePoint,0,0,5,0,0,0,bongs,Captured,0,0,None,None,0,0
